@@ -9,7 +9,6 @@ Hi, I’m Nadia Ghanizada, a Computer Science student transferring to Cal State 
 
 ## 💼 Current standing
 - **Computer Science Student** at California State University, Fullerton  
-- **Incoming Transfer** from Saddleback College  
 - **NASA Community College Aerospace Scholar** 🚀  
 - **AI Fellow** @ Break Through Tech x Cornell Tech  
 
