@@ -7,12 +7,11 @@ Hi, I’m Nadia Ghanizada, a Computer Science student transferring to Cal State 
 - 👩‍💻 I founded Girls4Code, a program where I teach coding fundamentals to younger girls and help them get a head start in tech.
 - 💬 I care about applying tech in meaningful ways, whether that’s optimizing systems, improving user experiences, or working on projects with real-world impact.
 
-Right now, I’m focused on growing my skills, contributing to collaborative projects, and exploring internship opportunities in software engineering or data science.
-## 💼 Profession / Current Role
+## 💼 Current standing
 - **Computer Science Student** at California State University, Fullerton  
 - **Incoming Transfer** from Saddleback College  
 - **NASA Community College Aerospace Scholar** 🚀  
-- **AI Fellow** @ Break Through Tech x Cornell Tech 🧠  
+- **AI Fellow** @ Break Through Tech x Cornell Tech  
 
 ---
 
@@ -37,14 +36,11 @@ Machine Learning, Natural Language Processing, Autonomous Systems
 - **Plagiarism Detector**  
   NLP-powered tool using TF-IDF and cosine similarity to detect paraphrased content
 
-- **Tic-Tac-Toe Multiplayer**  
-  JavaFX + object serialization networking project
-
 - **UV Index Checker**  
   Flask web app that pulls UV data from an API to alert users in real-time
 
 - **Girls4Code**  
-  A program I founded to teach middle & high school girls how to code 💻💕
+  A program I founded to teach middle & high school girls how to code
 
 ---
 
@@ -54,6 +50,7 @@ Machine Learning, Natural Language Processing, Autonomous Systems
 - **Email:** Ghanizadanadia@gmail.com
 
 ---
+Right now, I’m focused on growing my skills, contributing to collaborative projects, and exploring internship opportunities in software engineering or data science.
 <!--
 **nadiazada/nadiazada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
