@@ -8,6 +8,52 @@ Hi, I’m Nadia Ghanizada, a Computer Science student transferring to Cal State 
 - 💬 I care about applying tech in meaningful ways, whether that’s optimizing systems, improving user experiences, or working on projects with real-world impact.
 
 Right now, I’m focused on growing my skills, contributing to collaborative projects, and exploring internship opportunities in software engineering or data science.
+## 💼 Profession / Current Role
+- **Computer Science Student** at California State University, Fullerton  
+- **Incoming Transfer** from Saddleback College  
+- **NASA Community College Aerospace Scholar** 🚀  
+- **AI Fellow** @ Break Through Tech x Cornell Tech 🧠  
+
+---
+
+## 🔧 Top Skills & Technologies
+
+**Languages:**  
+Python, Java, C++
+
+**Frameworks & Libraries:**  
+JavaFX, scikit-learn, Pandas, NumPy, Matplotlib
+
+**Tools:**  
+VS Code, Git, Jupyter Notebooks, IntelliJ, AWS
+
+**Interests:**  
+Machine Learning, Natural Language Processing, Autonomous Systems
+
+---
+
+## 🌟 Favorite Projects
+
+- **Plagiarism Detector**  
+  NLP-powered tool using TF-IDF and cosine similarity to detect paraphrased content
+
+- **Tic-Tac-Toe Multiplayer**  
+  JavaFX + object serialization networking project
+
+- **UV Index Checker**  
+  Flask web app that pulls UV data from an API to alert users in real-time
+
+- **Girls4Code**  
+  A program I founded to teach middle & high school girls how to code 💻💕
+
+---
+
+## 🌐 Social Links
+
+- **LinkedIn:** [www.linkedin.com/in/nadia-ghanizada](https://www.linkedin.com/in/nadia-ghanizada)
+- **Email:** Ghanizadanadia@gmail.com
+
+---
 <!--
 **nadiazada/nadiazada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
