@@ -33,8 +33,11 @@ Machine Learning, Natural Language Processing, Autonomous Systems
 
 ## 🌟 Favorite Projects
 
-- **Plagiarism Detector**  
-  NLP-powered tool using TF-IDF and cosine similarity to detect paraphrased content
+### 📈 [Airbnb Price Prediction](https://github.com/nadiazada/BTT_LAB8b)
+Used data cleaning, feature engineering, and Random Forest regression to predict Airbnb rental prices. Tuned hyperparameters with GridSearchCV and visualized model performance with scatter plots.
+
+### 📝 [Plagiarism Detector](https://github.com/nadiazada/Plagiarizing-detection_P1))
+Built an NLP-based tool to detect potential plagiarism by comparing sentence similarity using `TfidfVectorizer` and `cosine_similarity`.
 
 - **UV Index Checker**  
   Flask web app that pulls UV data from an API to alert users in real-time
